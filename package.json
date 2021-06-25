@@ -32,7 +32,7 @@
     "appbase-js": "2.2.6",
     "bootstrap": "^3.3.6",
     "core-js": "^2.4.0",
-    "gulp-sass": "^2.3.1",
+    "gulp-sass": "^5.0.0",
     "moment": "^2.13.0",
     "node-sass": "^3.6.0",
     "reflect-metadata": "^0.1.3",
